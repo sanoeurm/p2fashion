@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = '<span style="color:#E1653B">Pav Blog Latest Comment Module</span>';
+$_['heading_title']       = '<span style="color:#E1653B">Blog Latest Comment Module</span>';
 
 // Text
 $_['text_module']         = 'Modules';

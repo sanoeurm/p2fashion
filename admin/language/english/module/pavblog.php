@@ -8,7 +8,7 @@
 *******************************************************/
 
 // Heading
-$_['heading_title']       = '<b style="color:#E1653B;font-size:110%">Pav Blog Management</b>';
+$_['heading_title']       = '<b style="color:#E1653B;font-size:110%">Blog Management</b>';
 
 // Text
 $_['text_treemenu']     = 'Tree Category Management';

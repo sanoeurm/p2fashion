@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = '<b style="font-size:18	px;color:#E8481B">Pavo Theme Control Panel</b>';
+$_['heading_title']       = 'Theme Control Panel';
 
 // Text
 $_['text_module']         = 'Modules';

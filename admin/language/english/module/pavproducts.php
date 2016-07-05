@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Pav Products - Category Block Module';
+$_['heading_title']       = 'Products - Category Block Module';
 
 // Text
 $_['text_module']         = 'Modules';

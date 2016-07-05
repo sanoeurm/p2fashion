@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']            = 'Pav Product Carousel';
+$_['heading_title']            = 'Product Carousel';
 
 // Text
 $_['text_module']              = 'Modules';
