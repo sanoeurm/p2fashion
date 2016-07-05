@@ -1,0 +1,22 @@
+
+/* customize for body */ 
+
+/* customize for topbar */ 
+
+/* customize for header-main */ 
+
+/* customize for pav-mainnav */ 
+#pav-mainnav,#pav-mainnav .navbar-default { background-color:#1ebe09} 
+#pav-mainnav p,#pav-mainnav .widget-html,.pav-megamenu h1, .pav-megamenu h2, .pav-megamenu h3, .pav-megamenu h4, .pav-megamenu h5, .pav-megamenu h6 { color:#1ea10d} 
+
+				
+					.pav-megamenu .navbar-nav &gt; li &gt; a, .pav-megamenu .navbar-nav &gt; li &gt; a &gt; .caret,.pav-megamenu .navbar-nav &gt; li &gt; a span
+								
+			 { color:#ffffff} 
+#pav-mainnav .dropdown-menu li a, #pav-mainnav .dropdown-menu a { color:#1ea10d} 
+
+/* customize for pav-verticalmenu */ 
+
+/* customize for footer-center */ 
+
+/* customize for product */ 
